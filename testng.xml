@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Rediff.com">
+
+<listeners>
+<listener class-name="com.rediff.qa.ExtentReportListener.ExtentReportListener" />
+<listener class-name="com.rediff.qa.util.Listeners" />
+</listeners>
+
+  <test name="Test Rediff">
+    <classes>
+      <class name="com.rediff.qa.testcases.HomePageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

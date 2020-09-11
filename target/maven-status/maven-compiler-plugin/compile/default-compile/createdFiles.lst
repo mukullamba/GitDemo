@@ -1,0 +1,8 @@
+com\rediff\qa\ExtentReportListener\ExtentReportListener.class
+com\rediff\qa\pages\HomePage.class
+com\rediff\qa\pages\SignUpPage.class
+com\rediff\qa\pages\RediffMailPage.class
+com\rediff\qa\base\TestBase.class
+com\rediff\qa\pages\LoginPage.class
+com\rediff\qa\pages\ShoppingPage.class
+com\rediff\qa\util\TestUtil.class

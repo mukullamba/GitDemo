@@ -1,0 +1,7 @@
+00:33:18.901 [main] ERROR com.rediff.qa.util.Log4j - this is error message
+00:33:18.919 [main] FATAL com.rediff.qa.util.Log4j - this is fatal message
+00:33:54.517 [main] DEBUG com.rediff.qa.util.Log4j - this is a debug message
+00:33:54.528 [main] ERROR com.rediff.qa.util.Log4j - this is error message
+00:33:54.529 [main] FATAL com.rediff.qa.util.Log4j - this is fatal message
+00:33:54.529 [main] INFO  com.rediff.qa.util.Log4j - this is info message
+00:47:35.095 [main] INFO  com.rediff.qa.testcases.HomePageTest - Title validated
