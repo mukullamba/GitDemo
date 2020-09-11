@@ -43,7 +43,7 @@ public class HomePageTest extends TestBase{
 	public void validateHomeTitleTest() {
 		String title = HP.validateHomePageTitle();
 		System.out.println(title);
-		log.debug("Title validated");
+		log.debug("Title validated for home page");
 		Assert.assertEquals(title,"Rediff.com: News | Rediffmail | Stock Quotes | Shopping");
 		
 	}
