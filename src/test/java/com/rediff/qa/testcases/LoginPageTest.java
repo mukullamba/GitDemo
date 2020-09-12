@@ -28,6 +28,7 @@ public class LoginPageTest extends TestBase {
 	@Test(priority=1)
 	public void validateLoginPageTitleTest() {
 	Assert.assertEquals(LP.validateLoginPageTitle(),"Rediffmail","Login Page title is not matched");	
+	System.out.println("Login page title validated");
 	}
 	
 	@Test(priority=2)
