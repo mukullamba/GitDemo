@@ -40,7 +40,8 @@ public class ShoppingPageTest extends TestBase {
 	@Test
 	public void validateShoppingTitleTest() {
 		Assert.assertEquals(SP.validateShoppingPageTitle(),"Online Shopping Site India: Shop Online At Best Store | Buy Mobiles, T-Shirts, Power Banks - Rediff Shopping");
-		}
+		System.out.println("Title validated for Shopping Page");
+	}
 	
 	@Test(enabled=false)
 	public void validateShoppingLogoTest() {
